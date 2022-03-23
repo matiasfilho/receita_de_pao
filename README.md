@@ -2,7 +2,7 @@
 
 Qtd   Item
 
-3     ovos
-500g  farinha
-1l    água
-20g   fermento
+4     ovos
+555g  farinha
+1l    água gelada
+23g   fermento
