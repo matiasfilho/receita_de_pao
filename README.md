@@ -1,2 +1,8 @@
 # receita_de_pao
-olá sou uma descrição
+
+Qtd   Item
+
+3     ovos
+500g  farinha
+1l    água
+20g   fermento
